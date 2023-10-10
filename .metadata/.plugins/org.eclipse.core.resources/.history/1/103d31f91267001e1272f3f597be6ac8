@@ -1,0 +1,11 @@
+package estudos__java;
+
+public class BeerSong {
+
+	public static void main(String[] args) {
+		
+		 System.out.println("Ola");
+
+	}
+
+}
